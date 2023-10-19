@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "three": "^0.143.0",
+    "webpack": "^5.88.2"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
